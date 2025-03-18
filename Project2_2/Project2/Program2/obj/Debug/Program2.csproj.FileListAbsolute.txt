@@ -1,0 +1,7 @@
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\bin\Debug\Program2.exe.config
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\bin\Debug\Program2.exe
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\bin\Debug\Program2.pdb
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\obj\Debug\Program2.exe
+D:\Projects\Xlab_Unit_2\Project2_2\Project2\Program2\obj\Debug\Program2.pdb
